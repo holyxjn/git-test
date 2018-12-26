@@ -11,5 +11,6 @@ public class FirstClass {
         System.out.println("21");
         System.out.println(1);
         System.out.println("明日之后");
+        System.out.println("明日之后");
     }
 }
