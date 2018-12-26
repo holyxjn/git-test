@@ -10,5 +10,6 @@ public class FirstClass {
     public void test(){
         System.out.println("21");
         System.out.println(1);
+        System.out.println("明日之后");
     }
 }
